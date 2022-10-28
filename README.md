@@ -3,7 +3,7 @@
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-My Work: [Link to the GitHub Page](https://github.com/ramyavyshnavi/cousera-module-2-assignment/)
+My Work: [Link to the GitHub Page](https://ramyavyshnavi.github.io/cousera-module-2-assignment/)
 
 Woo-hoo! You get to do some coding! Exciting!
 
